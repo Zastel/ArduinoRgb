@@ -1,0 +1,6 @@
+[submodule "ArduinoRgbApp"]
+	path = ArduinoRgbApp
+	url = https://github.com/Zastel/ArduinoRgbApp
+[submodule "ArduinoRgbController"]
+	path = ArduinoRgbController
+	url = https://github.com/Zastel/ArduinoRgbController
